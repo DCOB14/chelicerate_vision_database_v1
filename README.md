@@ -1,8 +1,8 @@
 # Chelicerate vision database
 
-##Question: To achieve complex visual tasks such as active visual prey pursuit, high visual acuity is needed (Class IV vision: Nilsson, 2013). Given that larger eye sizes allow for greater visual acuity, do harvesters that actively pursue prey have larger absolute eye sizes?
+## Question: To achieve complex visual tasks such as active visual prey pursuit, high visual acuity is needed (Class IV vision: Nilsson, 2013). Given that larger eye sizes allow for greater visual acuity, do harvesters that actively pursue prey have larger absolute eye sizes?
 
-##Hypothesis: Harvesters that actively pursue prey will have larger absolute eye sizes, measured as lens diameters, than those that don’t, regardless of body size and phylogenetic relatedness. 
+## Hypothesis: Harvesters that actively pursue prey will have larger absolute eye sizes, measured as lens diameters, than those that don’t, regardless of body size and phylogenetic relatedness. 
 
 ### Column name defintions
 	
