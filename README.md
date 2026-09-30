@@ -1,6 +1,6 @@
-#Chelicerate vision database
+# Chelicerate vision database
 
-###column name defintions
+### Column name defintions
 	
 'sex':	m, f  
 'depth':	only for marine taxa - # of meters below sea level  
